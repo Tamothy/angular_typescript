@@ -13,5 +13,8 @@
   ],
   "authors": [
     "Tam Nguyen <mr.tamron@gmail.com>"
-  ]
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
 }
