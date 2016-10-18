@@ -3,12 +3,15 @@
   "description": "",
   "main": "",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/Tamothy/angular_typescript",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
+  ],
+  "authors": [
+    "Tam Nguyen <mr.tamron@gmail.com>"
   ]
 }
