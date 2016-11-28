@@ -10,16 +10,20 @@ This is an exercise implementing TypeScript with Angular framework, using root a
 
 ## Setup/Installation Requirements
 
-* Clone repository if interested in making changes
-* Use Atom to customize changes
-* Make sure to commit regularly on terminal
-* Don't forget to push to remote repository
+* Download or clone repository
+* Run these commands in terminal:
+  * `$ npm install`
+  * `$ bower install`
+  * `$ gulp build`
+  * `$ gulp serve`
 
 ## Support and contact details
 
 Tam Nguyen's email: mr.tamron@gmail.com
 
 ## Technologies Used
+
+Angular
 
 TypeScript
 
