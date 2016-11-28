@@ -6,7 +6,7 @@
 
 ## Description
 
-This is an exercise implementing TypeScript with Angular framework, using root and child components
+This is an exercise implementing TypeScript with Angular framework, using root and child components to develop a task application.
 
 ## Setup/Installation Requirements
 
